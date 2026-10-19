@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="23" x2="234" y1="17" y2="243" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B5A1E8"/><stop offset=".52" stop-color="#665D91"/><stop offset="1" stop-color="#283D55"/>
+    </linearGradient>
+    <radialGradient id="label" cx="0" cy="0" r="1" gradientTransform="matrix(0 58 -58 0 127 128)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE9A8"/><stop offset="1" stop-color="#C98F50"/>
+    </radialGradient>
+  </defs>
+  <rect width="256" height="256" rx="28" fill="url(#bg)"/>
+  <circle cx="128" cy="128" r="99" fill="#25273E" stroke="#E4DBF8" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="128" cy="128" r="88" stroke="#FFF" stroke-opacity=".14"/>
+  <circle cx="128" cy="128" r="76" stroke="#FFF" stroke-opacity=".14"/>
+  <circle cx="128" cy="128" r="64" stroke="#FFF" stroke-opacity=".14"/>
+  <circle cx="128" cy="128" r="52" stroke="#FFF" stroke-opacity=".14"/>
+  <circle cx="128" cy="128" r="41" fill="url(#label)" stroke="#FFF" stroke-opacity=".65" stroke-width="2"/>
+  <circle cx="128" cy="128" r="5" fill="#393044"/>
+  <text x="128" y="125" fill="#FFF8E4" font-family="Arial,sans-serif" font-size="23" font-weight="800" text-anchor="middle">PP</text>
+  <text x="128" y="145" fill="#FFF8E4" font-family="Arial,sans-serif" font-size="7" font-weight="700" letter-spacing="2" text-anchor="middle">SIDE A</text>
+  <path d="M57 55c25-19 58-27 88-22" stroke="#FFF" stroke-opacity=".28" stroke-linecap="round" stroke-width="3"/>
+  <path d="m209 56 7 12-13 1" fill="#C7FFE9"/>
+</svg>
