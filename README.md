@@ -2,6 +2,8 @@
 
 Pause Party is a responsive music controller for Musical Chairs, Pass the Ball, Freeze Dance, and other games that need surprise music stops. It plays a small original soundtrack out of the box, chooses a fresh random interval for each round, pauses the real audio player, and waits for a person to press **Resume Music**.
 
+Developed with AI-assisted coding, with personal direction, testing and interative refinement.
+
 ## Run it locally
 
 You need Node.js 20.19 or newer and pnpm (npm works too).
